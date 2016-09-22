@@ -23,7 +23,7 @@ public class AddressBook
 		
 	}
 	
-	public static void main(Strings [] args)
+	public static void main(String [] args)
 	{
 		System.out.println("Address Book");
 		BuddyInfo test = new BuddyInfo();
@@ -34,6 +34,6 @@ public class AddressBook
 	}
 	}
 	
-}
+
 
 
