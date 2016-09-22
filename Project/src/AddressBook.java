@@ -26,6 +26,11 @@ public class AddressBook
 	public static void main(Strings [] args)
 	{
 		System.out.println("Address Book");
+		BuddyInfo test = new BuddyInfo();
+		AddressBook record = new AddressBook();
+		record.addBuddy(test);
+		record.removeBuddy(test);
+	
 	}
 	}
 	
